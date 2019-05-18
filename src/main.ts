@@ -9,8 +9,6 @@ import { AuthGuard } from './common/auth/guards/auth.guard';
 import { AllExceptionsFilter } from './common/filters/all-exception.filter';
 import { WinstonLogger } from './common/services/logger.service';
 process.env.NODE_CONFIG_DIR = path.join(__dirname, '../config');
-
-
 dotenv.config({ path: '../.env' });
 
 declare const module: any;
