@@ -31,7 +31,7 @@
     "@nestjs/swagger": "^2.2.0",
     "@nestjs/typeorm": "^5.0.2",
     "chalk": "^2.4.1",
-    "config": "^2.0.1",
+    "config": "^3.3.8",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
     "pg": "^7.4.3",
@@ -50,12 +50,12 @@
     "@types/node": "^9.3.0",
     "@types/supertest": "^2.0.4",
     "nodemon": "^1.14.1",
-    "ts-loader": "^4.1.0",
+    "ts-loader": "^9.4.2",
     "ts-node": "^4.1.0",
-    "tsconfig-paths": "^3.1.1",
+    "tsconfig-paths": "^3.10.1",
     "tslint": "5.3.2",
-    "webpack": "^4.2.0",
-    "webpack-cli": "^3.3.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-node-externals": "^1.6.0"
   }
 }
